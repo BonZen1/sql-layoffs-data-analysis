@@ -116,5 +116,3 @@ Possible next steps:
 
 Bon Joseph
 Entry-level Data Analyst (SQL-focused)
-Bon Joseph
-Entry-level Data Analyst (SQL-focused)
